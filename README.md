@@ -2,6 +2,6 @@
 
 PHP Скрипт для скачивания видео с YouTube
 
-Сайт: http://alexborsch.ho.ua
-YouTube канал: https://youtube.com/c/AlexBorsch
-Видео написания этого скрипта:
+Сайт: http://alexborsch.ho.ua <br>
+YouTube канал: https://youtube.com/c/AlexBorsch <br>
+Видео написания этого скрипта:  <br>
